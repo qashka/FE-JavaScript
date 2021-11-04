@@ -10,3 +10,7 @@
 * [Chapter 8](https://github.com/qashka/FE-JavaScript/blob/main/Chap8.js)
 
 and [a HTML file for console log!](https://github.com/qashka/FE-JavaScript/blob/main/index.html)
+
+## JavaScript DOM
+* [HTML File](https://github.com/qashka/FE-JavaScript/blob/main/index.html)
+* [JavaScript File](https://github.com/qashka/FE-JavaScript/blob/main/index.js)
